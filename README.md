@@ -9,3 +9,4 @@ This repository contains a comprehensive data analysis project focused on explor
 <p>Actionable Insights: Recommendations based on data-driven insights to improve business strategies.</p>
 <h4>Tools & Technologies:</h4>
 Excel
+<img src="Screenshot 2024-08-18 130407.png">
